@@ -18,6 +18,7 @@ autom4te.cache
 /compile
 /config.cache
 /config.guess
+/config.h
 /config.h.in
 /config.log
 /config.status
@@ -30,6 +31,7 @@ autom4te.cache
 /stamp-h1
 
 # https://www.gnu.org/software/libtool/
+/libtool
 
 /ltmain.sh
 
@@ -50,3 +52,9 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+src/kplet
+src/.libs/
+src/*.o
+src/*.lo
+src/*.la
+
