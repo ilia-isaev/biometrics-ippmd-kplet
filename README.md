@@ -1,5 +1,6 @@
 # Kplet accuracy test
-Check proposed accuracy for kplet algorithm with ippm descriptor
+Check proposed accuracy for kplet algorithm, described in the article [habr.com](https://habr.com/ru/companies/samsung/articles/842578/),
+with ippm descriptor
 
 ![MinexIII databse like, accuracy test.](https://github.com/ilia-isaev/biometrics-ippmd-kplet/blob/main/kplet_minexiii_accuracy.jpg)
 
